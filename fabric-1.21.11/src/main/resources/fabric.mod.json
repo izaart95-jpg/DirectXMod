@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "id": "gl4dx11",
   "version": "${version}",
-  "name": "DirectXMod D3D11 (1.21.11)",
-  "description": "Additive Direct3D 11 feature-level 10_1 backend for Minecraft 1.21.11, targeting Intel HD 3000-class hardware.",
+  "name": "DirectXMod (1.21.11)",
+  "description": "Direct3D backend for Minecraft 1.21.11.",
   "authors": [
     "xiaozi Graphics Development Team"
   ],
